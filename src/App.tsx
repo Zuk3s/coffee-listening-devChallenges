@@ -22,9 +22,9 @@ function App() {
   }, []);
 
   return (
-    <main className="min-h-screen py-20 pt-32 lg:pt-60 w-full bg-zinc-300 text-primary relative z-0">
+    <main className="min-h-screen py-32 xl:pt-60 w-full bg-zinc-300 text-primary relative z-0">
       <img
-        className="absolute top-0 min-h-60 object-left object-cover w-full -z-10 "
+        className="absolute top-0 h-96 object-left object-cover w-full -z-10 "
         src={background}
         alt=""
       />
