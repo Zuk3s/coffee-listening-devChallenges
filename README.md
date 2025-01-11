@@ -79,7 +79,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- [Envie um e-mail para felipe.macedo0829@gmail.com](mailto:felipe.macedo0829@gmail.com)
+- [Get in touch by email](mailto:felipe.macedo0829@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/felipe-macedo-31b26a235/)
 
 
