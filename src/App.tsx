@@ -22,13 +22,13 @@ function App() {
   }, []);
 
   return (
-    <main className="min-h-screen py-32 xl:pt-60 w-full bg-zinc-300 text-primary relative z-0">
+    <main className="min-h-screen py-32 w-full bg-zinc-300 text-primary relative z-0">
       <img
         className="absolute top-0 h-96 object-left object-cover w-full -z-10 "
         src={background}
         alt=""
       />
-      <section className="p-10 md:py-24 w-10/12 bg-zinc-200 rounded-2xl m-auto text-center flex flex-col gap-10 overflow-hidden">
+      <section className="p-10 md:py-24 w-10/12 bg-zinc-200 rounded-2xl m-auto text-center flex flex-col gap-10 overflow-hidden ">
         <header className="flex flex-col gap-4 relative z-10">
           <img
             className="w-72 absolute -top-10 left-2/4 -z-10 rotate-[9deg]"
