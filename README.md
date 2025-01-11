@@ -77,6 +77,12 @@ One of the challenges I faced during the project was designing the visuals using
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
+## Contact
+
+- [Envie um e-mail para felipe.macedo0829@gmail.com](mailto:felipe.macedo0829@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/felipe-macedo-31b26a235/)
+
+
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
