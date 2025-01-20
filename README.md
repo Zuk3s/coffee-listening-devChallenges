@@ -3,7 +3,7 @@
 <h1 align="center">Coffee Listening | devChallenges</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-coffee-listing" target="_blank" rel="noreferrer">Simple Coffee Listing</a> from <a href="http://devchallenges.io" target="_blank" rel="noreferrer">devChallenges.io</a>.
+   Solution for a challenge Simple Coffee Listing from devChallenges.io.
 </div>
 
 <div align="center">
