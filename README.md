@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://your-demo-link.your-domain](https://coffee-listening-dev-challenges-ji6s.vercel.app/" blank="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/Zuk3s/coffee-listening-devChallenges/" blank="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenge/simple-coffee-listing">
+    <a href="https://devchallenges.io/challenge/simple-coffee-listing" blank="_blank">
       Challenge
     </a>
   </h3>
