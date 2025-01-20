@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.your-domain](https://coffee-listening-dev-challenges-ji6s.vercel.app/" target="_blank" rel="noreferrer">
+    <a href="https://coffee-listening-dev-challenges-ji6s.vercel.app/" target="_blank" rel="noreferrer">
       Demo
     </a>
     <span> | </span>
