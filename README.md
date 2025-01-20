@@ -3,20 +3,20 @@
 <h1 align="center">Coffee Listening | devChallenges</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-coffee-listing" target="_blank">Simple Coffee Listing</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-coffee-listing" target="_blank" rel="noreferrer">Simple Coffee Listing</a> from <a href="http://devchallenges.io" target="_blank" rel="noreferrer">devChallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.your-domain](https://coffee-listening-dev-challenges-ji6s.vercel.app/" blank="_blank">
+    <a href="https://your-demo-link.your-domain](https://coffee-listening-dev-challenges-ji6s.vercel.app/" target="_blank" rel="noreferrer">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Zuk3s/coffee-listening-devChallenges/" blank="_blank">
+    <a href="https://github.com/Zuk3s/coffee-listening-devChallenges/" target="_blank" rel="noreferrer">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenge/simple-coffee-listing" blank="_blank">
+    <a href="https://devchallenges.io/challenge/simple-coffee-listing" target="_blank" rel="noreferrer">
       Challenge
     </a>
   </h3>
